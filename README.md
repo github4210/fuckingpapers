@@ -8,10 +8,10 @@ Let's innovate(turning ideas to real world product).
 
 # Fast Navigation
 * [Section1: Computer vision]()
-* [Section2: Segmentation]()
+* [Section2: Segmentation](https://github.com/XetRAHF/fuckingpapers/blob/master/README.md#segmentation)
 * [Section3: Detection]()
 * [Section4: Tracking]()
-* [Section5: road tracing]
+* [Section5: road tracing](https://github.com/XetRAHF/fuckingpapers/blob/master/README.md#自动汽车termroad-tracing)
 * [Section6: Natural Language Processing]()
 * [Section7: Reinforcement Learning]()
 
