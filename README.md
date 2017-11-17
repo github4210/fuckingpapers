@@ -1,6 +1,6 @@
 # Paper Glance
 
-> Papers about AI. Including from CV and NLP to advanced Reinforcement Learning papers.
+> Papers about AI. Including from CV and NLP to advanced Reinforcement Learning papers. Please copy the paper's title and search it on `sci-hub.cc`.
 
 I am gather all newest or classic papers here to review it. I will write very markdown notes on all papers which I read. I am now make research on mainly computer vision area but also other area that I am interested. Welcome to add your notes to this repo and let more people to understand the amazing work made by genius everyday!
 
