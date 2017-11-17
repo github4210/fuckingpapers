@@ -2,11 +2,18 @@
 
 > Papers about AI. Including from CV and NLP to advanced Reinforcement Learning papers.
 
-
-
 I am gather all newest or classic papers here to review it. I will write very markdown notes on all papers which I read. I am now make research on mainly computer vision area but also other area that I am interested. Welcome to add your notes to this repo and let more people to understand the amazing work made by genius everyday!
 
+Let's innovate(truning ideas into real world).
 
+# Fast Navigation
+* [Section1: Computer vision]()
+* [Section2: Segmentation]()
+* [Section3: Detection]()
+* [Section4: Tracking]()
+* [Section5: road tracing]
+* [Section6: Natural Language Processing]()
+* [Section7: Reinforcement Learning]()
 
 ## cv
 
