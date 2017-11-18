@@ -17,6 +17,59 @@ Let's innovate(turning ideas to real world product).
 
 ## cv
 
+| ID | title |
+|----|-------|
+| 0	| Covariances in Computer Vision and Machine Learning |
+| 1	| Road marking recognition with computer vision system |
+| 2	| Computer vision system for robotic complex based on Arduino and Raspberry Pi |
+| 3	| Online Graph Completion: Multivariate Signal Recovery in Computer Vision |
+| 4	| Analyzing Computer Vision Data â€” The Good, the Bad and the Ugly |
+| 5	| What is the Space of Attenuation Coefficients in Underwater Computer Vision? |
+| 6	| Deep-Learning Systems for Domain Adaptation in Computer Vision: Learning Transferable Feature Representations |
+| 7	| A new IoT combined face detection of people by using computer vision for security application |
+| 8	| A new method based on computer vision for non-intrusive orange peel sorting |
+| 9	| Exploring Web Images to Enhance Skin Disease Analysis Under A Computer Vision Framework |
+| 10	| A Human-Vehicle Collaborative Simulated Driving System Based on Hybrid Brain-Computer Interfaces and Computer Vision |
+| 11	| An insulator defect detection algorithm based on computer vision |
+| 12	| Computer vision based intruder detection framework (CV-IDF) |
+| 13	| Detection of skin cancer â€Melanomaâ€ through computer vision |
+| 14	| Fusing RFID and computer vision for fine-grained object tracking |
+| 15	| A Survey on Computer Vision for Assistive Medical Diagnosis from Faces |
+| 16	| A hybrid computer vision and Wi-Fi Doppler radar system for capturing the 3-D hand gesture trajectory with a smartphone |
+| 17	| FPGA acceleration of multilevel ORB feature extraction for computer vision |
+| 18	| Development of computer vision based obstacle detection and human tracking on smart wheelchair for disabled patient |
+| 19	| Computer vision and text recognition for assisting visually impaired people using Android smartphone |
+| 20	| A 0.42V high bandwidth synthesizable parallel access smart memory fabric for [::computer::] [::vision::] |
+| 21	| Stochastic Partial Differential Equations for Computer Vision with Uncertain Data |
+| 22	| Measuring vigilance decrement using [::computer::] [::vision::] assisted eye tracking in dynamic naturalistic environments |
+| 23	| Defect detection and recognition of bare PCB based on [::computer::] [::vision::] |
+| 24	| [::Computer::] [::vision::] in remotely piloted aircraft (RPA) to avoid obstacles during flight |
+| 25	| Teaching Computer Vision and Its Societal Effects: A Look at Privacy and Security Issues from the Studentsâ€™ Perspective |
+| 26	| Trusting the Computer in Computer Vision: A Privacy-Affirming Framework |
+| 27	| Assisting Users in a World Full of Cameras: A Privacy-Aware Infrastructure for Computer Vision Applications |
+| 28	| Application of Computer Vision and Vector Space Model for Tactical Movement Classification in Badminton |
+| 29	| Designing a Moral Compass for the Future of Computer Vision Using Speculative Analysis |
+| 30	| RPAS automatic take-off and landing operations using computer vision |
+| 31	| A generic framework for monitoring local freight traffic movements using computer vision-based techniques |
+| 32	| Web Mining & Computer Vision: New Partners for Object-Based Activity Recognition |
+| 33	| Accelerating real-time computer vision applications using HW/SW co-design |
+| 34	| Computer vision system for recognition and detection of color patterns in real-time task of robot control |
+| 35	| Kinect depth sensor for computer vision applications in autonomous vehicles |
+| 36	| Automatically adjustable rear mirror based on computer vision |
+| 37	| Evaluation of extant computer vision techniques for detecting intruder sUAS |
+| 38	| Automatic Identification of Botanical Samples of leaves using Computer Vision |
+| 39	| A multimodal gesture-based virtual interactive piano system using computer vision and a motion controller |
+| 40	| Design and implementation of high resolution face image acquisition system under low illumination based on the open source computer vision library |
+| 41	| Humanoid robot walking on track using computer vision |
+| 42	| Obstacle avoidance for outdoor flight of a quadrotor based on computer vision |
+| 43	| Computer vision approaches based on deep learning and neural networks: Deep neural networks for video analysis of human pose estimation |
+| 44	| Targeting system-level and Kernel-level optimizations of computer vision applications on embedded systems |
+| 45	| Networked Computer Vision: The Importance of a Holistic Simulator |
+| 46	| Implementation of an autonomous mobile platform based on computer vision |
+| 47	| Towards computer vision based ancient coin recognition in the wild â€” Automatic reliable image preprocessing and normalization |
+| 48	| Deep Algorithm Quality (DAQ): A blind computer vision algorithm quality assessment technique |
+| 49	| Increasing the accuracy for computer vision systems by removing the noise |
+
 ### segmentation
 
 this part is about segmentation. from the last decade years, segmentation really did a very good job on this task. the state-of-art atrous convolution based *deeplab* system are very impressive. Let's take a travel!
